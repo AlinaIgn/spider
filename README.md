@@ -5,3 +5,5 @@ Hey guys this is my first lesson on git
 I add some text here
 
 Learn about commit
+
+Must practice more
